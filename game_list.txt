@@ -1,1 +1,1 @@
-["ALAR","Arcade Mega-Mash"]
+{"ALAR":'1.0.1',"Arcade Mega-Mash":'1.0'}
