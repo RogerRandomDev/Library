@@ -1,1 +1,1 @@
-['Arcade Mega-Mash','What happens when an A.I. that wants to play with you is turned on after decades of inactivity? Lets find out...\nNot every game has a sad ending, but not every game has a happy one either.']
+['Arcade Mega-Mash','What happens when an A.I. that wants to play with you is turned on after decades of inactivity? Lets find out...\nMy first fully completed game. Enjoy!']
